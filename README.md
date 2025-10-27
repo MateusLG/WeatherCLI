@@ -25,9 +25,11 @@ Para rodar este projeto localmente, siga os passos abaixo.
 (Se você ainda não o fez)
 ```bash
 git clone https://github.com/MateusLG/WeatherCLI.git
-cd ts-weather-cli```
+cd ts-weather-cli
+```
 
 **2. Instale as dependencias e inicie o programa***
 ```bash
 npm install
-npm run```
+npm run
+```
