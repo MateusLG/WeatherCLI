@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* Base Options */
+    "target": "es2016", 
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true, 
+    "skipLibCheck": true,
+
+    /* Correção para o ts-node (Erros TS1295) */
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+  },
+  "include": ["src/**/*"] // Diz para o TS olhar a pasta 'src'
+}
