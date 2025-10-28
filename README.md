@@ -10,7 +10,7 @@ Ele foi desenvolvido como um projeto de portfólio para demonstrar o uso de Type
 * Busca dados de tempo reais da API [wttr.in](https://wttr.in).
 * Exibe a temperatura atual, sensação térmica e a condição do tempo de forma limpa no terminal.
 
-## TGecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * [Node.js](https://nodejs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
