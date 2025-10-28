@@ -1,8 +1,3 @@
-// src/types.ts
-
-// Vamos focar apenas nos dados que queremos exibir
-// A API retorna muito mais coisa!
-
 interface CurrentCondition {
   FeelsLikeC: string;
   temp_C: string;
